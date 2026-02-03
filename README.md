@@ -1,4 +1,4 @@
-📄 README.md (paste in GitHub)
+
 # Chemical Equipment Parameter Visualizer  
 Hybrid Web + Desktop Application
 
@@ -49,5 +49,4 @@ Desktop
 cd desktop-app
 pip install pyqt5 matplotlib requests
 python main.py
-🎥Demo
-Refer to Google Drive demo video.
+
